@@ -1,7 +1,7 @@
 # Incident Response & DFIR Simulation - Enterprise Development Environment
 
 > **Portfolio / Training Simulation**  
-> This project is entirely fictional. It does not represent access to, participation in, or investigation of any real Rockstar Games systems, breach, or confidential data.
+> This project is entirely fictional. It does not represent access to, participation in, or investigation of any real companies, breach, or confidential data.
 
 ## Overview
 
@@ -74,7 +74,3 @@ See the full report for the detailed mapping.
 - Correlated EDR, Windows, IAM, VPN, firewall, email, and network telemetry to reconstruct the attack path and identify compromised identities and systems.
 - Investigated malicious executables, credential access, attacker-created accounts, scheduled-task persistence, security-control changes, data staging, and HTTPS exfiltration.
 - Produced executive and technical incident summaries while incorporating containment, evidence preservation, privacy, and Legal escalation considerations.
-
-## Interview Talking Point
-
-A useful way to present this project in an interview is to focus on decision making: how the known access path was contained before attribution, how facts were separated from hypotheses, why personal-device analysis required Legal authorization, and why the environment was described as having the *known intrusion path contained* rather than being declared completely secure before validation was complete.
